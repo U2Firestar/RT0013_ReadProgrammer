@@ -17,6 +17,7 @@ This projects includes a Java-Library and a full cli-app for using RT0013 RFID T
 Hardware:
 - qLOG CAEN R1250l Tile Reader (or similar)
 - qLOG CAEN RT0013 NFC Tag
+
 Software:
 - Java 17 or higher
 - RFIDLibrary-5.0.0 (in /lib) ... CAEN API SDK 5.0.0
