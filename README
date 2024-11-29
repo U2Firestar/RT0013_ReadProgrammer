@@ -1,0 +1,49 @@
+############### VORLAGE ... AUF ENGLISCH SCHREIBEN!!
+
+# [Projektname]
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## Beschreibung
+
+[Projektname] ist eine Java-Bibliothek, die [kurze Beschreibung der Hauptfunktionalität oder des Zwecks]. Sie ist ideal für [Zielgruppe oder Anwendungsbereich] und bietet eine einfache Möglichkeit, [Hauptfunktionen der Bibliothek].
+
+## Features
+
+- 🛠️ [Feature 1]
+- 🔧 [Feature 2]
+- 🚀 [Feature 3]
+- 🔒 [Feature 4]
+
+## Anforderungen
+
+- Java 8 oder höher
+- [Weitere Abhängigkeiten, falls vorhanden]
+
+## Installation
+
+### Mit Maven
+
+Füge die folgende Abhängigkeit in deiner `pom.xml` hinzu:
+
+```xml
+<dependency>
+    <groupId>com.deinname</groupId>
+    <artifactId>[Projektname]</artifactId>
+    <version>[Version]</version>
+</dependency>
+
+## Build
+build.gradle:
+implementation 'com.deinname:[Projektname]:[Version]'
+
+
+## Dokumentation
+Die vollständige API-Dokumentation findest du unter:
+[Link zur API-Dokumentation oder Javadoc]
+
+## Lizenz
+Dieses Projekt ist unter der MIT License lizenziert.
+
+## TODO:
+- Date Conversion is pretty inaccurate... Whats the mistake?
